@@ -28,7 +28,7 @@
         "clients": [
           {
             "id": "Sham-VPN",
-            "flow": "xtls-rprx-vision",
+            "flow": "",
             "level": 0,
             "email": "user@Sham-NET"
           }
